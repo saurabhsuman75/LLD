@@ -1,4 +1,4 @@
-package TicTacToe;
+package TicTacToe.model;
 
 public abstract class Player {
     private GameSymbol symbol;
